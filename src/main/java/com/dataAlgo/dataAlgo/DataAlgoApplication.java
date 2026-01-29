@@ -13,12 +13,6 @@ public class DataAlgoApplication {
 		MaximumSumSubarray maxsum=new MaximumSumSubarray();
 		int answer = maxsum.maxSumSubArray(arr);
 		System.out.println(answer);
-		git init
-		git add README.md
-		git commit -m "first commit"
-		git branch -M main
-		git remote add origin https://github.com/ashistiwari/dataAlgo.git
-		git push -u origin main
 	}
 
 }
